@@ -14,7 +14,7 @@ import com.tom.prejoin.contracts.EmployeeResponse;
 
 @RestController
 @RequestMapping("/api/employee")
-public class NameController {
+public class EmployeeController {
 	
 	@Autowired
 	private EmployeeService service;
