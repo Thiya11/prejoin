@@ -60,7 +60,7 @@ N/A
 
 #### Method: POST
 
-### Sample request Body:
+#### Sample request Body:
 
 ```json {"name":"Mike"}```
 
