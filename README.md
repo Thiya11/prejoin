@@ -1,3 +1,11 @@
+# Quick Notes
+
+This is the backend application for the [prejoin APP](https://github.com/Thiya11/prejoin-ui/tree/master).
+
+Check out the UI Live Demo [here](https://prejoin-ui.vercel.app).
+
+Check out the Live Demo of Backend [here](https://thunderfalls/api/employee).
+
 # GETTING STARTED WITH PREJOIN SPRING BOOT APPLICATION
 
 * This Spring Boot backend application contains the basic APIs for learning purposes.
