@@ -4,7 +4,7 @@ This is the backend application for the [prejoin APP](https://github.com/Thiya11
 
 Check out the UI Live Demo [here](https://prejoin-ui.vercel.app).
 
-Check out the Live Demo of Backend [here](https://thunderfalls/api/employee).
+Check out the Live Demo of Backend [here](https://thunderfalls.xyz/api/employee).
 
 # GETTING STARTED WITH PREJOIN SPRING BOOT APPLICATION
 
