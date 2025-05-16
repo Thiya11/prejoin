@@ -19,6 +19,7 @@ Before running this application, ensure Oracle DB is set up and you have the cre
 * DB_URL = dbc:oracle:thin:@//localhost:1521/XEPDB1
 * DB_USER_NAME = example_user
 * DB_PASSWORD = example_pass
+* ALLOWED_URL = http://example.com *URL of the third party UI domain for CORS bypass*
 
 ### Production environment
 
