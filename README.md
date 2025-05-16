@@ -12,14 +12,14 @@ Check out the Live Demo of Backend [here](https://thunderfalls.xyz/api/employee)
 
 ## INITIAL SETUP
 
-Before running this application, ensure Oracle DB is set up and you have the credentials of the DB.
+Before running this application, ensure Oracle DB is set up and you have the credentials for the DB.
 
 ## Environment variables used
 
 * DB_URL = dbc:oracle:thin:@//localhost:1521/XEPDB1
 * DB_USER_NAME = example_user
 * DB_PASSWORD = example_pass
-* ALLOWED_URL = http://example.com *URL of the third party UI domain for CORS bypass*
+* ALLOWED_URL = http://example.com ////*URL of the third-party UI domain for CORS bypass*
 
 ### Production environment
 
