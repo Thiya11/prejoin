@@ -38,11 +38,13 @@ Before running this application, ensure Oracle DB is set up and you have the cre
 
 ### Development environment (Eclipse IDE)
 
-1. Pull this branch
+1. Pull this branch and open it in Eclipse IDE.
 
-2. Add the environment variables mentioned above in the run configurations. **Right click on the main java class *PrejoinApplication.java* Run as -> Run configurations**
+2. Right click on the main Java class *PrejoinApplication.java* Run as -> Run configurations.
 
-3. Finally, run the application.
+3. Add the environment variables mentioned above in the run configurations.
+
+4. Finally, run the application.
 
 # Available APIs
 
